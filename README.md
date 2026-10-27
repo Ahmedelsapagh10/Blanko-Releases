@@ -61,7 +61,7 @@ Blanko مجاني للجميع. لو التطبيق ساعدك في شغلك أ�
 
 ## 👨‍💻 المطور
 
-تم تطوير وتصميم Blanko بواسطة **أحمد الصباغ (Ahmed El-Sapagh)**.
+تم تطوير وتصميم Blanko بواسطة **أحمد الصباغ (Ahmed Elsapagh)**.
 - الموقع الشخصي والبورتفوليو: [https://elsapagh.octopusteam.net](https://elsapagh.octopusteam.net)
 
 ---
