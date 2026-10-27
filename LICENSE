@@ -1,0 +1,88 @@
+Blanko Freeware License (Proprietary Freeware)
+
+Copyright (c) 2026 Ahmed El-Sapagh. All rights reserved for proprietary portions.
+
+1. Scope and grant
+
+This license governs new Blanko code and other material owned by Ahmed El-Sapagh
+that is distributed under these terms, and the proprietary portions of future
+Blanko binary releases. It does not replace the licenses of third-party material
+or revoke any permissions previously granted under MIT or another license.
+
+Subject to these terms, you may download, install, run and use Blanko free of
+charge for personal, educational, non-profit and commercial/business purposes.
+This permission is perpetual, worldwide, non-exclusive and royalty-free.
+
+2. Freeware and voluntary support
+
+Blanko is free to use. No subscription, mandatory payment, advertisement, account
+registration or payment-based feature restriction is required. Voluntary support
+for the developer is optional and does not unlock features, badges or digital
+goods. This product license does not apply to your Boards or other user content;
+you retain your rights in that content.
+
+3. Restrictions on proprietary portions
+
+Except with prior written permission from the copyright holder, you may not
+modify, adapt, translate, rent, lease, sell, sublicense or redistribute the
+proprietary source code or modified proprietary binary portions. You may not
+reverse engineer, decompile or disassemble proprietary binaries except to the
+extent permitted by mandatory applicable law or an applicable component license.
+
+You may redistribute original, unmodified Blanko binary installation packages
+free of charge, provided this complete license and all accompanying copyright
+and third-party notices remain with them. These restrictions do not limit rights
+granted under historical MIT or third-party licenses. Where a component's license
+grants additional rights, that license governs that component.
+
+4. Disclaimer of warranty and liability
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. TO THE EXTENT PERMITTED
+BY APPLICABLE LAW, IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE
+FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT,
+TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR
+THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+5. Historical MIT distributions
+
+All Blanko copies and source snapshots previously distributed under MIT retain
+their granted MIT permissions. This includes the public beta releases through
+v0.1.0-beta.4 and later MIT-distributed source snapshots, including commit
+13a6078. Existing recipients and forks retain their historical MIT rights;
+changing repository visibility does not revoke those rights. These freeware
+terms are not a retroactive replacement for MIT.
+
+The historical MIT text is preserved in HISTORICAL-MIT-LICENSE.txt in the public
+distribution documentation and in distribution/public_repo/ in the source tree.
+
+6. Third-party and separately licensed material
+
+Bundled components, fonts, artwork and metadata retain their respective original
+licenses. Their copyright holders have not assigned ownership through this
+product license. Full notices are retained in the application bundle and are
+accessible through About Blanko -> third-party licenses. Asset paths below refer
+to files bundled with the application/source tree, not files required in the
+download-only repository:
+
+- Roboto: SIL Open Font License 1.1;
+  assets/benchmark_fonts/Roboto-OFL.txt.
+- Noto Sans Arabic: SIL Open Font License 1.1;
+  assets/benchmark_fonts/NotoSansArabic-OFL.txt.
+- Amiri, Cairo, Lora and JetBrains Mono: SIL Open Font License 1.1;
+  assets/fonts/amiri-OFL.txt, cairo-OFL.txt, lora-OFL.txt, jetbrainsmono-OFL.txt.
+- Lucide and Feather-derived icons: ISC and MIT notices;
+  assets/visual_library/LUCIDE-LICENSE.txt.
+- Hugeicons free artwork from hugeicons 1.2.0: MIT, Copyright 2024 Halal Labs;
+  assets/visual_library/HUGEICONS-LICENSE.txt.
+- Google Noto Emoji artwork: Apache License 2.0 with author acknowledgments;
+  assets/visual_library/NOTO-EMOJI-LICENSE.txt and NOTO-EMOJI-AUTHORS.txt.
+- Unicode emoji metadata: Unicode data license;
+  assets/visual_library/UNICODE-LICENSE.txt.
+- Flowbite illustrations: MIT;
+  assets/visual_library/FLOWBITE-LICENSE.txt.
+- Separately MIT-licensed Blanko illustrations: MIT;
+  assets/visual_library/ORIGINAL-ILLUSTRATIONS-LICENSE.txt.
+- Flutter, Dart and package dependencies: their individual licenses and notices,
+  retained by Flutter's generated license bundle and LicenseRegistry.
