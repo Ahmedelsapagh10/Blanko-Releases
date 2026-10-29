@@ -27,15 +27,17 @@
 
 ## ⬇️ تنزيل التطبيق (Downloads)
 
-التحميل الحالي هو الإصدار التجريبي التاريخي `v0.1.0-beta.4`، ويحتفظ بترخيص MIT: [نص الترخيص](HISTORICAL-MIT-LICENSE.txt). الترخيص التجاري المجاني الجديد يخص الإضافات المملوكة المستقبلية فقط.
+التحديث الحالي: **`v0.1.0-beta.5` — إصدار التطبيق `0.1.0`، البناء `5`**. [ملاحظات الإصدار](https://github.com/Ahmedelsapagh10/Blanko-Releases/releases/tag/v0.1.0-beta.5). النسخة التاريخية [beta.4](https://github.com/Ahmedelsapagh10/Blanko-Releases/releases/tag/v0.1.0-beta.4) ومنح MIT السابقة تظل محفوظة: [نص الترخيص](HISTORICAL-MIT-LICENSE.txt).
 
 | المنصة | ملف التثبيت | طريقة التشغيل |
 |--------|-------------|---------------|
-| 🪟 **Windows** (x64) | [Blanko-Windows-x64.zip](https://github.com/Ahmedelsapagh10/Blanko-Releases/releases/download/v0.1.0-beta.4/Blanko-Windows-x64.zip) | فك الضغط وشغّل `whiteboard.exe` |
-| 🍎 **macOS** | [Blanko-macOS.zip](https://github.com/Ahmedelsapagh10/Blanko-Releases/releases/download/v0.1.0-beta.4/Blanko-macOS.zip) | فك الضغط واسحب إلى Applications |
-| 🐧 **Linux** (x64) | [Blanko-Linux-x64.tar.gz](https://github.com/Ahmedelsapagh10/Blanko-Releases/releases/download/v0.1.0-beta.4/Blanko-Linux-x64.tar.gz) | فك الضغط وشغّل `bundle/whiteboard` |
-| 📱 **Android** | [Blanko-Android.apk](https://github.com/Ahmedelsapagh10/Blanko-Releases/releases/download/v0.1.0-beta.4/Blanko-Android.apk) | فعّل التثبيت من مصادر غير معروفة وثبّت التطبيق |
-| 🔐 **Checksums** | [SHA256SUMS.txt](https://github.com/Ahmedelsapagh10/Blanko-Releases/releases/download/v0.1.0-beta.4/SHA256SUMS.txt) | التحقق من صحة الملفات |
+| 🪟 **Windows** (x64) | [Blanko-Windows-x64.zip](https://github.com/Ahmedelsapagh10/Blanko-Releases/releases/download/v0.1.0-beta.5/Blanko-Windows-x64.zip) | فك الضغط وشغّل `whiteboard.exe` |
+| 🍎 **macOS** | [Blanko-macOS.zip](https://github.com/Ahmedelsapagh10/Blanko-Releases/releases/download/v0.1.0-beta.5/Blanko-macOS.zip) | فك الضغط واسحب إلى Applications |
+| 🐧 **Linux** (x64) | [Blanko-Linux-x64.tar.gz](https://github.com/Ahmedelsapagh10/Blanko-Releases/releases/download/v0.1.0-beta.5/Blanko-Linux-x64.tar.gz) | فك الضغط وشغّل `bundle/whiteboard` |
+| 📱 **Android** | [Blanko-Android.apk](https://github.com/Ahmedelsapagh10/Blanko-Releases/releases/download/v0.1.0-beta.5/Blanko-Android.apk) | فعّل التثبيت من مصادر غير معروفة وثبّت التطبيق |
+| 🔐 **Checksums** | [SHA256SUMS.txt](https://github.com/Ahmedelsapagh10/Blanko-Releases/releases/download/v0.1.0-beta.5/SHA256SUMS.txt) | التحقق من صحة الملفات |
+
+أغلق التطبيق قبل استبدال الحزمة، واحتفظ بنسخة `.wboard` من لوحاتك. على Android ثبّت التحديث فوق النسخة الحالية دون إزالتها؛ تم التحقق من الترقية من beta.4 بنفس توقيع المالك. توقيع beta.1 التاريخي مختلف. iOS اجتاز فحص البناء غير الموقّع، ولا يتوفر تنزيل حتى توفير توقيع Apple للتوزيع.
 
 > **ملاحظة لنظام macOS**: التطبيق حاليًا غير موثّق رسميًا من Apple (Notarization)، لذا قد تحتاج للسماح بفتحه أول مرة من إعدادات النظام (System Settings -> Privacy & Security).
 
