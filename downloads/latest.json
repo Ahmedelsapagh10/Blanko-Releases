@@ -1,0 +1,58 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": "2026-10-29T09:04:43Z",
+  "releaseTag": "v0.1.0-beta.5",
+  "channel": "beta",
+  "platforms": {
+    "macos": {
+      "status": "available",
+      "version": "0.1.0-beta.5",
+      "channel": "beta",
+      "architecture": "universal",
+      "filename": "Blanko-macOS.zip",
+      "url": "https://github.com/Ahmedelsapagh10/Blanko-Releases/releases/download/v0.1.0-beta.5/Blanko-macOS.zip",
+      "sha256": "e35b90c8240a0d3dfe3f428cf3536581d7767938ae6215d3a191ded6a9020850",
+      "sizeBytes": 114427742
+    },
+    "windows": {
+      "status": "available",
+      "version": "0.1.0-beta.5",
+      "channel": "beta",
+      "architecture": "x86_64",
+      "filename": "Blanko-Windows-x64.zip",
+      "url": "https://github.com/Ahmedelsapagh10/Blanko-Releases/releases/download/v0.1.0-beta.5/Blanko-Windows-x64.zip",
+      "sha256": "6d4aca151ab3f0eade61d1bf4b48a9024ed97cfe9733c247a4fa995af3c10c2c",
+      "sizeBytes": 103863427
+    },
+    "linux": {
+      "status": "available",
+      "version": "0.1.0-beta.5",
+      "channel": "beta",
+      "architecture": "x86_64",
+      "filename": "Blanko-Linux-x64.tar.gz",
+      "url": "https://github.com/Ahmedelsapagh10/Blanko-Releases/releases/download/v0.1.0-beta.5/Blanko-Linux-x64.tar.gz",
+      "sha256": "ec5da3befa35bfeb02fcb996b3314fc3365deb40113a60ba45d21904ae662dcc",
+      "sizeBytes": 75393620
+    },
+    "android": {
+      "status": "available",
+      "version": "0.1.0-beta.5",
+      "channel": "beta",
+      "architecture": "universal",
+      "filename": "Blanko-Android.apk",
+      "url": "https://github.com/Ahmedelsapagh10/Blanko-Releases/releases/download/v0.1.0-beta.5/Blanko-Android.apk",
+      "sha256": "5bacb5027b384e576696824593f19605d92410debc18765a0acd021c56bf2d38",
+      "sizeBytes": 179452633
+    },
+    "ios": {
+      "status": "coming_soon",
+      "version": null,
+      "channel": null,
+      "architecture": "arm64",
+      "filename": null,
+      "url": null,
+      "sha256": null,
+      "sizeBytes": null
+    }
+  }
+}
